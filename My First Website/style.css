@@ -1,0 +1,13 @@
+body{
+    background-color:blue ;
+    text-align: center;
+}
+p{
+    color: brown;
+    font-family: Georgia;
+}
+#btn{
+    background-color: black;
+    color: aqua;
+    border-radius: 50px;
+}
